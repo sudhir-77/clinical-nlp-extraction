@@ -53,11 +53,11 @@ The table is rewritten by `python run.py` from `results/metrics.json`. Plots: `r
 | --- | --- | --- | --- |
 | Entity-level exact-span F1 on the NCBI Disease official test split | 0.8764 | >= 0.8 | True |
 | Transformer vs. CRF baseline | 0.1779 | >= 0.05 | True |
-| Negation detection F1 on BioScope disease sentences | 0.8372 | >= 0.8 | True |
+| Negation detection F1 on BioScope disease sentences | 0.8302 | >= 0.8 | True |
 | API schema validity | 1.0000 | >= 1.0 | True |
-| Test coverage of src/ | 0.8971 | >= 0.75 | True |
+| Test coverage of src/ | 0.8989 | >= 0.75 | True |
 
-Transformer entity F1 0.8764 (precision 0.8666, recall 0.8865). CRF entity F1 0.6985. Negation F1 0.8372.
+Transformer entity F1 0.8764 (precision 0.8666, recall 0.8865). CRF entity F1 0.6985. Negation F1 0.8302.
 <!-- RESULTS_TABLE_END -->
 
 ## Limitations

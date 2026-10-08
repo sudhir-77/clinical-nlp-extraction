@@ -19,7 +19,7 @@
     },
     {
       "name": "Negation detection F1 on BioScope disease sentences",
-      "value": 0.8372093023255814,
+      "value": 0.8301886792452831,
       "op": ">=",
       "threshold": 0.8,
       "threshold_high": null,
@@ -35,7 +35,7 @@
     },
     {
       "name": "Test coverage of src/",
-      "value": 0.8971477960242005,
+      "value": 0.8988954970263382,
       "op": ">=",
       "threshold": 0.75,
       "threshold_high": null,
@@ -70,18 +70,18 @@
     },
     "bioscope": {
       "held_out": {
-        "precision": 0.9230769230769231,
-        "recall": 0.7659574468085106,
-        "f1": 0.8372093023255814,
-        "support": 47,
-        "n_mentions": 1054
+        "precision": 0.8979591836734694,
+        "recall": 0.7719298245614035,
+        "f1": 0.8301886792452831,
+        "support": 57,
+        "n_mentions": 1421
       },
       "dev": {
-        "precision": 0.8888888888888888,
-        "recall": 0.8888888888888888,
-        "f1": 0.8888888888888888,
-        "support": 18,
-        "n_mentions": 479
+        "precision": 0.9047619047619048,
+        "recall": 0.8636363636363636,
+        "f1": 0.8837209302325582,
+        "support": 22,
+        "n_mentions": 598
       },
       "documents": 1273,
       "sentences": 11871
@@ -112,7 +112,7 @@
       "error_categories.png"
     ],
     "coverage": {
-      "line_rate": 0.8971477960242005
+      "line_rate": 0.8988954970263382
     }
   },
   "baseline": {
@@ -149,7 +149,7 @@
     "gpu": null,
     "python": "3.12.10",
     "os": "Windows-11-10.0.26200-SP0",
-    "peak_rss_gb": 2.6059
+    "peak_rss_gb": 2.6073
   },
-  "runtime_seconds": 3538.463
+  "runtime_seconds": 3554.353
 }
