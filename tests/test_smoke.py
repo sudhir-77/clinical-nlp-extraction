@@ -19,6 +19,9 @@ def test_quick_pipeline_writes_artifacts(tmp_path: Path):
     api = json.loads((tmp_path / "api_check.json").read_text(encoding="utf-8"))
     assert api["n_notes"] == api["n_valid"] > 0
     assert payload["splits"]["ncbi_disease_abstracts"] == {"train": 593, "val": 100, "test": 100}
+    held_out = payload["metrics"]["bioscope"]["held_out"]
+    assert held_out["support"] >= 50
+    assert held_out["f1"] >= 0.80
     assert payload["seeds"] == [0]
     assert (tmp_path / "metrics.json").exists()
     assert (tmp_path / "error_analysis.json").exists()

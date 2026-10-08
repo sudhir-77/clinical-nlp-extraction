@@ -27,3 +27,13 @@ def test_lexicon_longest_match_and_crf_learns_dictionary_token():
     assert info["dev_f1"] == 1.0
     predicted = predict_crf(model, [_row("new", ["acute", "flu", "case"], ["O", "B-DISEASE", "O"])], lexicon)
     assert predicted[0][1] == "B-DISEASE"
+
+
+def test_lexicon_matches_strain_suffix_and_plural_only():
+    lexicon = DiseaseLexicon({("hiv",), ("lymphoma",), ("anomaly",), ("virus",), ("ald",)})
+    assert [hit[2] for hit in lexicon.find("No HIV-1 replication was seen.")] == ["HIV-1"]
+    assert [hit[2] for hit in lexicon.find("none of the non-B lymphomas")] == ["lymphomas"]
+    assert [hit[2] for hit in lexicon.find("two anomalies")] == ["anomalies"]
+    assert [hit[2] for hit in lexicon.find("several viruses")] == ["viruses"]
+    assert lexicon.find("ALD-treated cells were used.") == []
+    assert lexicon.tag_tokens(["HIV-1", "lymphomas"]) == ["O", "O"]

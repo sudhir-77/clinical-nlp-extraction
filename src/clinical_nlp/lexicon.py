@@ -30,6 +30,7 @@ class DiseaseLexicon:
     def __init__(self, phrases: set[tuple[str, ...]]) -> None:
         self.phrases = phrases
         self.by_first: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+        self.unigrams = {phrase[0] for phrase in phrases if len(phrase) == 1}
         for phrase in phrases:
             self.by_first[phrase[0]].append(phrase)
         for bucket in self.by_first.values():
@@ -54,6 +55,30 @@ class DiseaseLexicon:
                 else:
                     index += 1
         return cls(phrases)
+
+    def _variant_unigram(self, token: str) -> str | None:
+        """Map a numeric strain suffix or a regular plural back to a training unigram.
+
+        NCBI stores the base form (HIV, lymphoma). BioScope often writes HIV-1
+        or lymphomas. The hyphen suffix must be all digits. A plural must use
+        -s, -es, or -ies.
+        """
+        if "-" in token:
+            head, _, tail = token.partition("-")
+            if tail.isdigit() and head in self.unigrams:
+                return head
+        if len(token) <= 4 or not token.endswith("s"):
+            return None
+        stems: list[str] = []
+        if token.endswith("ies"):
+            stems.append(token[:-3] + "y")
+        if token.endswith("es"):
+            stems.append(token[:-2])
+        stems.append(token[:-1])
+        for stem in stems:
+            if stem in self.unigrams:
+                return stem
+        return None
 
     def longest_at(self, words: list[str], index: int) -> int:
         best = 0
@@ -87,6 +112,8 @@ class DiseaseLexicon:
         index = 0
         while index < len(words):
             length = self.longest_at(words, index)
+            if length == 0 and self._variant_unigram(words[index]):
+                length = 1
             if length:
                 start = spans[index][0]
                 end = spans[index + length - 1][1]
