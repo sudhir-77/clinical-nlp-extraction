@@ -1,0 +1,311 @@
+{
+  "n_errors": 159,
+  "n_analyzed": 50,
+  "counts": {
+    "boundary": 75,
+    "missed": 34,
+    "false_positive": 50
+  },
+  "examples": [
+    {
+      "sentence_id": "9949209:0:1",
+      "category": "boundary",
+      "gold_text": "hepatic copper accumulation",
+      "pred_text": "Abnormal hepatic copper accumulation"
+    },
+    {
+      "sentence_id": "9949209:0:8",
+      "category": "missed",
+      "gold_text": "WD",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9674903:4:6",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "haploinsufficiency of distal 3 p"
+    },
+    {
+      "sentence_id": "9949209:0:4",
+      "category": "boundary",
+      "gold_text": "copper overload",
+      "pred_text": "copper overload disease"
+    },
+    {
+      "sentence_id": "9949209:0:8",
+      "category": "missed",
+      "gold_text": "CT",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9863607:5:9",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "CTGn"
+    },
+    {
+      "sentence_id": "9949209:0:4",
+      "category": "boundary",
+      "gold_text": "non-Indian childhood cirrhosis",
+      "pred_text": "childhood cirrhosis"
+    },
+    {
+      "sentence_id": "9931324:8:5",
+      "category": "missed",
+      "gold_text": "displaced pupils",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9311732:7:10",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "tumors-were"
+    },
+    {
+      "sentence_id": "9949209:0:5",
+      "category": "boundary",
+      "gold_text": "copper toxicosis",
+      "pred_text": "autosomal recessive copper toxicosis"
+    },
+    {
+      "sentence_id": "9931324:8:5",
+      "category": "missed",
+      "gold_text": "searching gaze",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9668171:9:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "DM"
+    },
+    {
+      "sentence_id": "9950360:1:2",
+      "category": "boundary",
+      "gold_text": "colorectal cancer",
+      "pred_text": "non-FAP colorectal cancer"
+    },
+    {
+      "sentence_id": "9931324:8:7",
+      "category": "missed",
+      "gold_text": "PAX6 - related disease",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9463314:10:7",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "proliferation"
+    },
+    {
+      "sentence_id": "9950360:1:8",
+      "category": "boundary",
+      "gold_text": "FAP",
+      "pred_text": "FAP and non-FAP colorectal cancer"
+    },
+    {
+      "sentence_id": "9702690:18:6",
+      "category": "missed",
+      "gold_text": "abnormalities in the bilateral cerebellar hemispheres",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9705283:14:4",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "haploinsufficiency"
+    },
+    {
+      "sentence_id": "9950360:1:8",
+      "category": "boundary",
+      "gold_text": "colorectal cancer",
+      "pred_text": "FAP and non-FAP colorectal cancer"
+    },
+    {
+      "sentence_id": "9702690:18:10",
+      "category": "missed",
+      "gold_text": "insidious lesion",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9705283:14:6",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "haploinsufficiency"
+    },
+    {
+      "sentence_id": "9674903:4:1",
+      "category": "boundary",
+      "gold_text": "Maternal uniparental disomy ( UPD ) for chromosome 15",
+      "pred_text": "Maternal uniparental disomy"
+    },
+    {
+      "sentence_id": "9618166:19:4",
+      "category": "missed",
+      "gold_text": "Pendred",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9790667:17:2",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "deficiency"
+    },
+    {
+      "sentence_id": "9674903:4:7",
+      "category": "boundary",
+      "gold_text": "maternal UPD 15",
+      "pred_text": "UPD 15"
+    },
+    {
+      "sentence_id": "9733027:30:1",
+      "category": "missed",
+      "gold_text": "FRDA",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9618166:19:2",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "PDS"
+    },
+    {
+      "sentence_id": "9311732:7:0",
+      "category": "boundary",
+      "gold_text": "unilateral retinoblastoma",
+      "pred_text": "isolated unilateral retinoblastoma"
+    },
+    {
+      "sentence_id": "9506545:31:1",
+      "category": "missed",
+      "gold_text": "SCA1",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9831355:22:2",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "APC"
+    },
+    {
+      "sentence_id": "9311732:7:1",
+      "category": "boundary",
+      "gold_text": "unilateral retinoblastoma",
+      "pred_text": "isolated unilateral retinoblastoma"
+    },
+    {
+      "sentence_id": "9506545:31:1",
+      "category": "missed",
+      "gold_text": "hypermetria",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9580132:33:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "deficiency in the antidiuretic hormone arginine vasopressin"
+    },
+    {
+      "sentence_id": "9311732:7:3",
+      "category": "boundary",
+      "gold_text": "unilateral retinoblastoma",
+      "pred_text": "isolated unilateral retinoblastoma"
+    },
+    {
+      "sentence_id": "9506545:31:3",
+      "category": "missed",
+      "gold_text": "SCA2",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9580132:33:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "AVP"
+    },
+    {
+      "sentence_id": "9311732:7:14",
+      "category": "boundary",
+      "gold_text": "tumors",
+      "pred_text": "multifocal tumors"
+    },
+    {
+      "sentence_id": "9506545:31:7",
+      "category": "missed",
+      "gold_text": "gaze-evoked nystagmus",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9674906:38:4",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "respiratory and feeding difficulties"
+    },
+    {
+      "sentence_id": "9931324:8:1",
+      "category": "boundary",
+      "gold_text": "malformation of the eye",
+      "pred_text": "dominant malformation of the eye"
+    },
+    {
+      "sentence_id": "9288106:32:3",
+      "category": "missed",
+      "gold_text": "clonal malignancy",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9360520:43:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "degeneration of the magnocellular neurons of the hypothalamus"
+    },
+    {
+      "sentence_id": "9700175:12:3",
+      "category": "boundary",
+      "gold_text": "hereditary forms of ovarian cancer",
+      "pred_text": "of"
+    },
+    {
+      "sentence_id": "9288106:32:7",
+      "category": "missed",
+      "gold_text": "T-PLL",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9709714:44:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "fatty"
+    },
+    {
+      "sentence_id": "9790667:17:7",
+      "category": "boundary",
+      "gold_text": "deficiency in the sterol 27-hydroxylase activity",
+      "pred_text": "deficiency in the sterol 27-hydroxylase"
+    },
+    {
+      "sentence_id": "9288106:32:7",
+      "category": "missed",
+      "gold_text": "A-T",
+      "pred_text": null
+    },
+    {
+      "sentence_id": "9709714:44:1",
+      "category": "false_positive",
+      "gold_text": null,
+      "pred_text": "beta oxidation"
+    },
+    {
+      "sentence_id": "9467011:21:0",
+      "category": "boundary",
+      "gold_text": "hamartoma syndromes",
+      "pred_text": "hamartoma"
+    },
+    {
+      "sentence_id": "9867744:36:1",
+      "category": "missed",
+      "gold_text": "early death",
+      "pred_text": null
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+sentence_id,mention,gold_negated,pred_negated
+91079577:S1.1,HIV,0,0
+91079577:S1.2,human immunodeficiency virus,0,0
+91159628:S10.2,leukemic,0,0
+91172768:S13.1,leukemia,0,0
+91172768:S13.9,leukemia,0,0
+91174087:S15.2,HPA,0,0
+91174087:S15.8,HPA,0,0
+91174087:S15.11,HPA,0,0
+91174087:S15.11,HPA,0,0
+91204058:S21.2,human immunodeficiency virus,0,0
+91218850:S24.1,HIV,0,0
+91218850:S24.2,human immunodeficiency virus,0,0
+91218850:S24.2,HIV,0,0
+91218850:S24.3,HIV,0,0
+91218850:S24.4,HIV,0,0
+91218850:S24.4,HIV,0,0
+91218850:S24.5,HIV,0,0
+91218850:S24.7,HIV,0,0
+91218850:S24.8,HIV,0,0
+91218850:S24.8,HIV,0,0
+91218850:S24.9,tumour,0,0
+91218850:S24.9,HIV,0,0
+91218850:S24.9,HIV,0,0
+91237803:S32.1,human immunodeficiency virus,0,0
+91237803:S32.2,human immunodeficiency virus,0,0
+91237803:S32.2,HIV,0,0
+91237803:S32.3,HIV,0,0
+91237803:S32.4,HIV,0,0
+91237803:S32.5,HIV,0,0
+91237803:S32.6,HIV,0,0
+91237803:S32.8,HIV,0,0
+91237803:S32.10,HIV,0,0
+91237803:S32.11,HIV,0,0
+91237803:S32.11,HIV,0,0
+91239569:S33.2,leukemia,0,0
+91239569:S33.10,tumors,0,0
+91239569:S33.12,leukemia,0,0
+91248763:S35.1,leukemic,0,0
+91248763:S35.3,leukemic,0,0
+91266912:S37.8,HIV,0,0
+91277630:S39.1,tumor,0,0
+91277630:S39.2,tumor,0,0
+91292396:S43.1,dihydropyrimidine dehydrogenase deficiency,0,0
+91292396:S43.3,carcinoma,0,0
+91292396:S43.5,DPD,0,0
+91292396:S43.6,DPD,1,1
+91292396:S43.8,genetic defect,0,0
+91292396:S43.9,DPD,0,0
+91296379:S46.2,leukemia,0,0
+91296379:S46.2,leukemia,0,0
+91303691:S47.1,human immunodeficiency virus,0,0
+91303691:S47.2,human immunodeficiency virus,0,0
+91303691:S47.6,human immunodeficiency virus,0,0
+91319738:S48.1,human immunodeficiency virus,0,0
+91319738:S48.2,Human immunodeficiency virus,0,0
+91319738:S48.2,HIV,0,0
+91321794:S49.3,tumour,0,0
+91325181:S50.1,systemic lupus erythematosus,0,0
+91325181:S50.2,systemic lupus erythematosus,0,0
+91347784:S52.1,diabetes,0,0
+91347784:S52.2,diabetes,0,0
+91347784:S52.3,diabetes,1,1
+91347784:S52.5,diabetes,0,0
+91355651:S56.1,tumor,0,0
+91355651:S56.2,human immunodeficiency virus,0,0
+91355651:S56.2,HIV,0,0
+91355651:S56.3,tumor,0,0
+91363265:S58.2,systemic diseases,0,0
+91369589:S62.1,breast cancer,0,0
+91369589:S62.4,breast cancer,0,0
+92013023:S67.1,HIV,0,0
+92013023:S67.2,HIV,0,0
+92013023:S67.5,HIV,0,0
+92013023:S67.6,HIV,0,0
+92013023:S67.7,HIV,0,0
+92022337:S71.4,APC,0,0
+92042309:S75.2,leukemia,0,0
+92042309:S75.3,leukemia,0,0
+92042309:S75.5,leukemia,0,0
+92051383:S78.3,lymphoma,0,0
+92052106:S79.1,human immunodeficiency virus,0,0
+92052106:S79.2,human immunodeficiency virus,0,0
+92052106:S79.4,HIV,0,0
+92066454:S85.1,human immunodeficiency virus,0,0
+92066454:S85.2,human immunodeficiency virus,0,0
+92066454:S85.4,retinoblastoma,0,0
+92107162:S89.1,Epstein-Barr virus,0,0
+92107162:S89.2,Epstein-Barr virus,0,0
+92107919:S90.2,thrombosis,0,0
+92113075:S94.12,obese,0,0
+92123193:S96.9,carcinoma,0,0
+92134262:S98.1,muscular atrophy,0,0
+92134262:S98.2,muscular atrophy,0,0
+92156797:S106.1,human immunodeficiency virus,0,0
+92156797:S106.2,human immunodeficiency virus,0,0
+92156797:S106.6,tumor,0,0
+92186836:S114.12,human immunodeficiency virus,0,0
+92195320:S117.8,tumor,0,0
+92215726:S122.1,leukemia,0,0
+92215726:S122.2,leukemia,0,0
+92223210:S124.1,hypercholesterolemia,0,0
+92224250:S125.5,Tumor,0,0
+92260679:S134.1,human immunodeficiency virus,0,0
+92260679:S134.2,human immunodeficiency virus,0,0
+92260679:S134.4,leukemia,1,0
+92265660:S135.1,leukemia,0,0
+92265660:S135.2,leukemia,0,0
+92309248:S139.2,lymphoid malignancies,0,0
+92309248:S139.10,lymphoma,1,1
+92317168:S142.2,HIV,0,0
+92371447:S154.2,human immunodeficiency virus,0,0
+92371447:S154.4,immune deficiency,0,0
+92392375:S159.1,tumor,0,0
+92392375:S159.4,tumor,0,0
+92407982:S160.1,human immunodeficiency virus,0,0
+92407982:S160.2,Human immunodeficiency virus,0,0
+92408021:S161.1,Human immunodeficiency virus,0,0
+92408021:S161.2,Human immunodeficiency virus,0,0
+92408021:S161.2,Med,0,0
+93020778:S167.1,nephritis,0,0
+93020778:S167.2,systemic lupus erythematosus,0,0
+93020778:S167.5,nephritis,0,0
+93024882:S170.7,human immunodeficiency virus,0,0
+93054486:S176.1,tumor,0,0
+93054486:S176.2,tumor,0,0
+93065212:S179.1,human immunodeficiency virus,0,0
+93065212:S179.2,human immunodeficiency virus,0,0
+93077034:S182.4,leukemia,1,1
+93101981:S187.1,tumors,0,0
+93101981:S187.2,leukemia,0,0
+93101981:S187.2,tumors,0,0
+93124567:S195.1,immunodeficiency,0,0
+93124567:S195.2,human immunodeficiency virus,0,0
+93124567:S195.2,HIV,0,0
+93124567:S195.2,HIV,0,0
+93124567:S195.2,immunodeficiency,0,0
+93124567:S195.3,HIV,0,0
+93124567:S195.4,HIV,0,0
+93124567:S195.6,cytomegalovirus,0,0
+93124567:S195.6,HIV,0,0
+93124567:S195.7,HIV,0,0
+93129248:S198.2,immunodeficiency,0,0
+93129248:S198.2,human immunodeficiency virus,0,0
+93129248:S198.2,HIV,0,0
+93129248:S198.3,HIV,0,0
+93129248:S198.3,HIV,0,0
+93129248:S198.5,HIV,0,0
+93129248:S198.6,tumor,0,0
+93141262:S201.2,neoplastic,0,0
+93145322:S203.2,leukemia,0,0
+93145322:S203.5,leukemia,0,0
+93150054:S204.15,leukemia,0,0
+93152834:S205.2,leukemia,0,0
+93152870:S206.1,leukemia,0,0
+93152870:S206.2,leukemia,0,0
+93152870:S206.7,leukemia,0,0
+93153017:S208.7,human immunodeficiency virus,0,0
+93154317:S210.1,Epstein-Barr virus,0,0
+93154317:S210.2,Epstein-Barr virus,0,0
+93157335:S213.1,human immunodeficiency virus,0,0
+93157335:S213.2,human immunodeficiency virus,0,0
+93157335:S213.6,tumor,0,0
+93171603:S214.3,immunodeficiency,0,0
+93172387:S215.1,immunodeficiency,0,0
+93172387:S215.2,human immunodeficiency virus,0,0
+93224719:S237.3,APC,0,0
+93233083:S243.1,arthritis,0,0
+93233083:S243.2,arthritis,0,0
+93233083:S243.5,arthritis,0,0
+93253031:S251.8,tumor,0,0
+93266597:S257.6,human immunodeficiency virus,0,0
+93266597:S257.6,HIV,0,0
+93266597:S257.7,HIV,0,0
+93266777:S258.3,goiter,0,0
+93266777:S258.7,goiter,0,0
+93268332:S259.2,tumor,0,0
+93275333:S262.2,tumor,0,0
+93276575:S263.1,Epstein-Barr,0,0
+93276575:S263.2,Epstein-Barr virus,0,0
+93276575:S263.2,Epstein-Barr virus,0,0
+93276575:S263.4,Epstein-Barr,0,0
+93281652:S268.1,immunodeficiency,0,0
+93281652:S268.2,immunodeficiency,0,0
+93300929:S277.2,lymphoma,0,0
+93307152:S279.2,leukemic,0,0
+93309430:S281.3,retinoblastoma,0,0
+93320446:S285.6,leukemia,0,0
+93324366:S288.3,human immunodeficiency virus,0,0
+93329079:S289.4,hypotonic,0,0
+93350203:S291.1,HIV,0,0
+93350203:S291.2,immune deficiency,0,0
+93350203:S291.3,human immunodeficiency virus,0,0
+93350203:S291.3,HIV,0,0
+93350203:S291.4,HIV,0,0
+93350203:S291.5,HIV,0,0
+93350203:S291.5,HIV,0,0
+93363253:S292.1,Tumor,0,0
+93363253:S292.2,tumor,0,0
+93363253:S292.10,HIV,0,0
+94031267:S295.2,human immunodeficiency virus,0,0
+94031267:S295.2,immunodeficiency,0,0
+94031267:S295.4,tumor,0,0
+94075814:S297.4,HIV,0,0
+94120719:S311.1,Epstein-Barr virus,0,0
+94120719:S311.2,Epstein-Barr virus,0,0
+94129004:S312.2,leukemia,0,0
+94129004:S312.3,HPC,0,0
+94129004:S312.6,HPC,0,0
+94129004:S312.8,HPC,0,1
+94129004:S312.10,HPC,0,0
+94129004:S312.11,HPC,0,0
+94132650:S313.3,HIV,0,0
+94149008:S317.2,tumor,0,0
+94151327:S318.4,tumor,0,0
+94151327:S318.6,tumor,1,1
+94193110:S322.1,leukemia,0,0
+94193110:S322.2,leukemia,0,0
+94193110:S322.4,leukemic,0,0
+94230583:S325.2,leukemia,0,0
+94230583:S325.3,leukemia,0,0
+94243031:S326.3,leukemia,0,0
+94281402:S330.1,human immunodeficiency virus,0,0
+94281402:S330.2,human immunodeficiency virus,0,0
+94281402:S330.4,tumor,0,0
+96147310:S342.1,HIV,0,0
+96147310:S342.2,human immunodeficiency virus,0,0
+96147310:S342.2,HIV,0,0
+96147310:S342.4,HIV,0,0
+96147310:S342.5,HIV,0,0
+96186497:S346.4,tumor,0,0
+96256807:S352.1,Epstein-Barr virus,0,0
+96256807:S352.2,Epstein-Barr virus,0,0
+96290415:S360.2,leukemia,0,0
+96290415:S360.11,leukemia,0,0
+96293454:S362.2,lymphoma,0,0
+96323085:S371.1,Epstein-Barr,0,0
+96323085:S371.2,Epstein-Barr virus,0,0
+96323085:S371.5,lymphoma,0,0
+96323103:S372.1,leukemia,0,0
+96323103:S372.2,leukemia,0,0
+96353908:S382.1,tumor,0,0
+96353908:S382.2,tumors,0,0
+96353908:S382.3,tumors,0,1
+96353908:S382.5,tumor,0,0
+96353908:S382.6,tumors,0,0
+96353908:S382.8,tumors,0,0
+96353916:S383.2,leukemia,0,0
+96353916:S383.2,leukemia,0,0
+96353916:S383.4,leukemia,0,0
+96353916:S383.4,leukemic,0,0
+96355428:S385.3,tumor,0,0
+96355439:S386.10,tumor,1,1
+96355439:S386.10,tumor,1,1
+96355899:S387.8,human immunodeficiency virus,0,0
+96355899:S387.9,human immunodeficiency virus,0,0
+96357043:S388.1,human immunodeficiency virus,0,0
+96357043:S388.2,human immunodeficiency virus,0,0
+96357043:S388.3,HIV,0,0
+96358388:S389.1,Epstein-Barr virus,0,0
+96358388:S389.1,carcinoma,0,0
+96358388:S389.1,tumour,0,0
+96358388:S389.2,Epstein-Barr virus,0,0
+96358388:S389.2,carcinoma,0,0
+96358388:S389.3,carcinoma,0,0
+96358388:S389.4,tumour,0,0
+96358388:S389.8,tumours,1,1
+96358388:S389.10,tumour,0,0
+96358388:S389.11,carcinoma,0,0
+96358388:S389.11,tumour,0,0
+96358388:S389.11,lymphoma,0,0
+96358388:S389.11,carcinomas,0,0
+96388957:S396.1,leukemia,0,0
+96388957:S396.2,leukemia,0,0
+96388957:S396.2,leukemia,0,0
+96388957:S396.3,leukemia,0,0
+96405269:S402.9,leukemia,0,0
+96405269:S402.11,leukemia,0,0
+96413274:S407.1,tumor,0,0
+96413274:S407.2,tumor,0,0
+96413274:S407.5,lymphoma,0,0
+96420243:S411.1,retinoblastoma,0,0
+96420243:S411.2,tumor,0,0
+96420243:S411.3,retinoblastoma,0,0
+96420243:S411.11,tumor,0,0
+97000328:S416.5,tumor,0,0
+97016536:S419.1,Fabry disease,0,0
+97016536:S419.2,Fabry disease,0,0
+97016536:S419.4,Epstein-Barr virus,0,0
+97016536:S419.4,Fabry disease,0,0
+97016536:S419.12,Fabry disease,0,0
+97017504:S420.1,immunodeficiency,0,0
+97017504:S420.5,immunodeficiency,0,0
+97024837:S422.5,tumour,0,0
+97028169:S427.8,HPC,0,0
+97028169:S427.8,HPC,1,1
+97028169:S427.12,HPC,0,0
+97047773:S436.4,tumor,0,0
+97048062:S437.1,tumor,0,0
+97048062:S437.1,Epstein-Barr virus,0,0
+97048062:S437.2,Epstein-Barr virus,0,0
+97048062:S437.6,tumor,0,0
+97048062:S437.7,tumor,0,0
+97048062:S437.7,tumor,0,0
+97050805:S439.1,leukemia,0,0
+97054651:S442.3,Epstein-Barr,0,0
+97054651:S442.7,immunodeficiency,1,1
+97058563:S446.13,neoplastic,0,0
+97060432:S447.1,Epstein-Barr virus,0,0
+97060432:S447.1,carcinoma,0,0
+97060432:S447.3,Epstein-Barr virus,0,0
+97060432:S447.4,lymphoma,0,0
+97060432:S447.5,tumours,0,0
+97060432:S447.6,tumour,0,0
+97060432:S447.8,tumour,0,0
+97060432:S447.10,carcinoma,0,0
+97060432:S447.11,lymphoma,0,0
+97060432:S447.11,tumour,0,0
+97067175:S451.2,leukemia,0,0
+97067175:S451.3,cirrhosis,0,0
+97067175:S451.4,cirrhosis,0,0
+97067175:S451.10,leukemia,0,0
+97069862:S452.3,leukemias,0,0
+97069862:S452.12,leukemias,0,0
+97070945:S454.9,breast cancer,0,0
+97074532:S455.2,leukemia,0,0
+97074543:S456.8,Tumor,0,0
+97079135:S457.1,Epstein-Barr virus,0,0
+97079135:S457.1,arthritis,0,0
+97079135:S457.2,arthritis,0,0
+97079135:S457.3,Epstein-Barr virus,0,0
+97079135:S457.3,arthritis,0,0
+97079135:S457.3,arthritis,1,0
+97079135:S457.4,arthritis,0,0
+97079135:S457.5,arthritis,0,0
+97079135:S457.6,arthritis,0,0
+97080592:S458.10,APC,0,0
+97080592:S458.13,APC,0,0
+97080592:S458.13,APC,0,0
+97081063:S459.2,Tumor,0,0
+97081192:S460.1,Epstein-Barr,0,0
+97081192:S460.2,Epstein-Barr virus,0,0
+97081192:S460.10,human immunodeficiency virus,0,0
+97087515:S464.1,tuberous sclerosis,0,0
+97087515:S464.2,tuberous sclerosis,0,0
+97087515:S464.8,tumor,0,0
+97088634:S465.2,X-linked agammaglobulinemia,0,0
+97098688:S467.1,Epstein-Barr virus,0,0
+97098688:S467.2,Epstein-Barr virus,0,0
+97098688:S467.2,tumor,0,0
+97103140:S469.3,cancers,0,0
+97108276:S471.1,bronchial asthma,0,0
+97108276:S471.2,bronchial asthma,0,0
+97108276:S471.4,bronchial asthma,0,0
+97108276:S471.6,bronchial asthma,0,0
+97108656:S472.5,tumor,0,0
+97115684:S476.2,human immunodeficiency virus,0,0
+97119289:S479.2,cancers,0,0
+97126060:S480.1,cytomegalovirus,0,0
+97126060:S480.2,Cytomegalovirus,0,0
+97126060:S480.5,tumor,1,0
+97132479:S488.8,immune deficiency,0,0
+97135341:S489.3,tumour,0,0
+97140237:S491.1,immunodeficiency,0,0
+97140237:S491.8,immunodeficiency,0,0
+97175274:S494.2,atherosclerosis,0,0
+97175274:S494.5,atherogenesis,0,0
+97182946:S496.3,leukemia,0,0
+98128482:S499.2,tumor,0,0
+99035056:S500.1,leukemia,1,0
+99035056:S500.2,leukemia,0,0
+99035056:S500.8,tumor,0,0
+10023774:S503.2,human immunodeficiency virus,0,0
+10037138:S506.4,leukemia,0,0
+10068588:S510.1,human immunodeficiency virus,0,0
+10068588:S510.2,human immunodeficiency virus,0,0
+10068588:S510.2,HIV,0,0
+10068588:S510.3,HIV,0,0
+10068588:S510.5,HIV,0,0
+10068588:S510.6,HIV,0,0
+10068588:S510.6,HIV,0,0
+10068588:S510.7,HIV,0,0
+10068588:S510.7,HIV,0,0
+10068588:S510.7,HIV,0,0
+10068588:S510.8,HIV,0,0
+10069412:S512.1,tumor,0,0
+10069412:S512.3,HIV,0,0
+10069412:S512.4,arthritis,0,0
+10069412:S512.6,HIV,0,0
+10069412:S512.7,Tumor,0,0
+10069412:S512.10,HIV,0,0
+10069428:S513.9,atopic dermatitis,0,0
+10070274:S514.4,arthritis,0,0
+10070274:S514.5,arthritis,0,0
+10070274:S514.8,arthritis,0,0
+10070274:S514.9,arthritis,0,0
+10070274:S514.10,arthritis,0,0
+10075645:S516.4,tumor,0,0
+10079106:S517.8,tumor,0,0
+10089140:S525.1,tumour,0,0
+10089140:S525.3,tumour,0,0
+10089566:S526.1,human immunodeficiency virus,0,0
+10089907:S527.8,leukemic,0,0
+10089907:S527.13,leukemic,0,0
+10090947:S528.1,leukemia,0,0
+10090947:S528.2,leukemia,0,0
+10090947:S528.2,leukemia,0,0
+10090947:S528.4,leukemic,1,1
+10090947:S528.5,leukemic,0,0
+10090947:S528.6,leukemic,0,0
+10090947:S528.8,leukemic,0,0
+10090947:S528.9,leukemic,0,0
+10090947:S528.10,leukemic,0,0
+10092775:S531.3,HPC,0,0
+10092775:S531.4,HPC,0,0
+10092775:S531.5,HPC,0,0
+10092775:S531.5,leukemic,0,0
+10092775:S531.10,HPC,0,0
+10096561:S535.1,melanomas,0,0
+10096561:S535.2,melanomas,0,0
+10096561:S535.3,tumor,0,0
+10096561:S535.3,tumors,0,0
+10096561:S535.3,tumor,0,0
+10096561:S535.4,tumors,0,0
+10096561:S535.5,tumor,0,0
+10096561:S535.6,tumor,0,0
+10101001:S536.6,tumor,0,0
+10200294:S545.1,tumor,0,0
+10200294:S545.2,tumor,0,0
+10202024:S547.1,cytomegalovirus,0,0
+10202027:S548.8,thrombosis,0,0
+10202027:S548.8,atherosclerosis,0,0
+10203577:S552.2,atherosclerosis,0,0
+10203577:S552.11,tumor,1,1
+10210321:S558.5,splenomegaly,0,0
+10210645:S559.2,Tumor,0,0
+10224109:S563.6,tumor,0,0
+10232385:S573.1,tumor,0,0
+10232385:S573.3,tumors,1,1
+10232385:S573.7,tumor,0,0
+10233882:S576.2,human immunodeficiency virus,0,0
+10233882:S576.4,tumor,0,0
+10233882:S576.6,cancer,0,0
+10233927:S578.1,Epstein-Barr virus,0,0
+10233927:S578.2,Epstein-Barr virus,0,0
+10318942:S581.2,arthritis,0,0
+10318942:S581.4,tumor,0,0
+10330274:S589.3,tumor,0,0
+10339475:S591.2,atherogenesis,0,0
+10339475:S591.4,tumor,0,0
+10358154:S597.4,retinoblastoma,0,0
+10369255:S604.1,malaria,0,0
+10369255:S604.3,tumour,0,0
+10369255:S604.4,malaria,0,0
+10372271:S605.1,inflammatory bowel disease,0,0
+10377075:S606.11,atherogenesis,0,0
+10378895:S608.1,Wilms' tumor,0,0
+10378895:S608.1,leukemic,1,1
+10378895:S608.2,Wilms' tumor,0,0
+10378895:S608.3,leukemias,0,0
+10378895:S608.3,leukemic,0,0
+10378895:S608.6,leukemic,0,0
+10383397:S611.3,tumor,0,0
+10402173:S616.1,renal cell carcinomas,0,0
+10402173:S616.2,renal cell carcinoma,0,0
+10402173:S616.2,RCC,0,0
+10402173:S616.3,RCC,0,0
+10402173:S616.3,RCC,0,0
+10402173:S616.4,RCC,0,0
+10402173:S616.6,RCC,0,0
+10402173:S616.8,RCC,0,0
+10403270:S617.3,Epstein-Barr virus,0,0
+10403270:S617.7,von Willebrand,0,0
+10409763:S618.1,Epstein-Barr virus,0,0
+10409763:S618.1,tumor,0,0
+10409763:S618.2,Epstein-Barr virus,0,0
+10409763:S618.2,tumor,0,0
+10409763:S618.9,lymphoma,1,1
+10411007:S620.2,tumor,0,0
+10415075:S621.1,systemic lupus erythematosus,0,0
+10415075:S621.2,systemic lupus erythematosus,0,0
+10415075:S621.4,arthritis,0,0
+10416957:S623.1,tumor,0,0
+10416957:S623.2,tumor,0,0
+10416957:S623.2,tumor,0,0
+10416957:S623.3,tumor,0,0
+10416957:S623.5,tumor,0,0
+10416957:S623.6,tumor,0,0
+10430922:S631.1,breast cancers,0,0
+10430922:S631.2,tumors,0,0
+10430922:S631.3,tumor,0,0
+10430922:S631.4,tumor,0,0
+10430922:S631.5,tumors,0,0
+10430922:S631.7,tumors,0,0
+10430922:S631.8,cancers,0,0
+10430922:S631.8,solid tumors,0,0
+10437913:S633.1,Retinoblastoma,0,0
+10437913:S633.2,Tumor,1,0
+10437913:S633.2,retinoblastoma,1,0
+10440930:S638.4,atherosclerosis,0,0
+10440930:S638.5,tumor,0,0
+10454636:S641.1,human immunodeficiency virus,0,0
+10454636:S641.9,tumor,0,0
+10477716:S645.1,tumor,0,0
+10477716:S645.2,Tumor,0,0
+10477716:S645.4,lymphoma,0,0
+10482545:S647.1,leukemia,0,0
+10482545:S647.2,leukemia,0,0
+1972889:S654.1,human immunodeficiency virus,0,0
+1972889:S654.1,cytomegalovirus,0,0
+1972889:S654.2,Human immunodeficiency virus,0,0
+1972889:S654.2,HIV,0,0
+1972889:S654.4,cytomegalovirus,0,0
+2105946:S660.1,leukemic,0,0
+2105946:S660.4,leukemic,0,0
+2105946:S660.5,leukemia,0,0
+2127692:S669.1,tumor,0,0
+2127692:S669.2,tumor,0,0
+2146676:S671.1,tumor,0,0
+2146676:S671.1,human immunodeficiency virus,1,1
+2146676:S671.2,human immunodeficiency virus,0,0
+2146676:S671.2,HIV,0,0
+2146676:S671.2,HIV,0,0
+2146676:S671.2,tumor,0,0
+2146676:S671.3,HIV,0,0
+2146676:S671.3,HIV,0,0
+2146676:S671.5,HIV,0,0
+2146676:S671.5,tumor,0,0
+2146676:S671.7,tumor,0,0
+2146676:S671.7,HIV,1,1
+2146676:S671.7,HIV,0,0
+2146676:S671.8,HIV,0,0
+2193097:S674.1,human immunodeficiency virus,0,0
+2193097:S674.2,human immunodeficiency virus,0,0
+2196387:S675.1,human immunodeficiency virus,0,0
+2196387:S675.3,human immunodeficiency virus,0,0
+2196387:S675.3,HIV,0,0
+2196387:S675.5,HIV,0,0
+2196387:S675.6,HIV,0,0
+2204723:S676.1,human immunodeficiency virus,0,0
+2204723:S676.1,tumor,0,0
+2204723:S676.2,tumor,0,0
+2204723:S676.2,human immunodeficiency virus,0,0
+2204723:S676.2,HIV,0,0
+2204723:S676.3,Tumor,0,0
+2204723:S676.3,HIV,0,0
+2204723:S676.6,HIV,0,0
+2204723:S676.9,HIV,0,0
+2204723:S676.9,HIV,1,1
+2204723:S676.10,HIV,1,1
+2216722:S677.7,neuroblastoma,0,0
+2216722:S677.11,melanoma,0,0
+2234062:S678.5,human immunodeficiency virus,0,0
+2237444:S679.7,human immunodeficiency virus,0,0
+2237444:S679.7,HIV,0,0
+2237444:S679.8,leukemia,0,0
+2258623:S680.3,HIV,0,0
+2302185:S683.1,human immunodeficiency virus,0,0
+2302185:S683.2,human immunodeficiency virus,0,0
+2302185:S683.4,HIV,0,0
+2406568:S687.2,leukemia,0,0
+7479915:S691.1,human immunodeficiency virus,0,0
+7479915:S691.2,human immunodeficiency virus,0,0
+7499267:S698.1,tumor,0,0
+7499267:S698.2,tumor,0,0
+7499267:S698.6,retinoblastoma,0,0
+7510689:S699.2,leukemic,0,0
+7510689:S699.10,leukemic,0,0
+7510689:S699.10,lymphoma,0,0
+7520093:S704.1,Epstein-Barr virus,0,0
+7520093:S704.2,Epstein-Barr virus,0,0
+7520914:S705.2,bacterial infections,0,0
+7526398:S711.2,tumor,0,0
+7526398:S711.4,tumor,0,0
+7534293:S713.2,osteosarcoma,0,0
+7545467:S723.7,tumor,0,0
+7565415:S725.1,human immunodeficiency virus,0,0
+7565415:S725.2,human immunodeficiency virus,0,0
+7572682:S729.1,atherosclerosis,0,0
+7585505:S732.1,Epstein-Barr virus,0,0
+7585505:S732.3,Epstein-Barr virus,0,0
+7589085:S733.2,tumor,0,0
+7590249:S734.5,phenotypic abnormalities,0,0
+7594489:S738.2,HIV,0,0
+7594489:S738.12,HIV,0,0
+7605990:S740.4,leukemias,0,0
+7609053:S741.1,human immunodeficiency virus,0,0
+7609053:S741.2,Human immunodeficiency virus,0,0
+7609053:S741.7,immunodeficiency,0,0
+7609053:S741.11,HIV,0,0
+7637809:S748.3,tumour,0,0
+7640302:S749.3,anemia,0,0
+7645208:S752.1,immunodeficiency,0,0
+7645208:S752.2,human immunodeficiency virus,0,0
+7645208:S752.2,HIV,0,0
+7645208:S752.3,HIV,0,0
+7645208:S752.4,HIV,0,0
+7645208:S752.4,HIV,0,1
+7645208:S752.5,HIV,0,0
+7645208:S752.11,HIV,1,1
+7720085:S767.2,ALD,0,0
+7720085:S767.3,ALD,0,0
+7720085:S767.4,ALD,0,0
+7720085:S767.9,ALD,0,0
+7720085:S767.9,ALD,1,1
+7720085:S767.11,ALD,0,0
+7739562:S771.2,human immunodeficiency virus,0,0
+7739562:S771.4,leukemia,0,0
+7747417:S773.1,retinoblastoma,0,0
+7747417:S773.1,cytomegalovirus,0,0
+7747417:S773.2,cytomegalovirus,0,0
+7747417:S773.4,retinoblastoma,0,0
+7747417:S773.5,tumor,0,0
+7747440:S774.1,Epstein-Barr virus,0,0
+7747440:S774.2,Epstein-Barr virus,0,0
+7747447:S775.1,HIV,0,0
+7747447:S775.2,HIV,0,0
+7747447:S775.2,HIV,0,0
+7747447:S775.3,HIV,0,0
+7747447:S775.5,HIV,0,0
+7747447:S775.6,HIV,0,0
+7747447:S775.7,HIV,0,0
+7749985:S776.1,immune deficiency,0,0
+7749985:S776.2,immune deficiency,0,0
+7749985:S776.2,immunodeficiency disease,0,0
+7759956:S779.10,leukemia,0,0
+7802642:S784.3,cancer,0,0
+7815555:S785.1,Epstein-Barr,0,0
+7815555:S785.2,Epstein-Barr virus,0,0
+7843230:S789.1,tumor,0,0
+7848921:S792.1,leukemic,0,0
+7848921:S792.2,leukemic,0,0
+7849291:S793.11,tumor,0,0
+7849291:S793.11,tumor,1,1
+7853483:S794.1,human immunodeficiency virus,0,0
+7853483:S794.2,human immunodeficiency virus,0,0
+7853483:S794.2,HIV,0,0
+7853483:S794.3,HIV,0,0
+7853483:S794.6,HIV,0,0
+7853483:S794.11,HIV,0,0
+7853483:S794.12,HIV,0,0
+7858491:S795.4,neoplastic,0,0
+7858491:S795.4,leukemic,0,0
+7858491:S795.5,leukemic,0,0
+7859735:S797.1,leukemic,0,0
+7859735:S797.2,leukemia,0,0
+7882168:S804.9,HIV,0,0
+7884865:S805.2,Epstein-Barr virus,0,0
+7884865:S805.12,Epstein-Barr,0,0
+7915519:S813.6,HIV,0,0
+7917514:S814.2,human immunodeficiency virus,0,0
+7919963:S815.1,melanomas,0,0
+7919963:S815.3,melanoma,0,0
+7919963:S815.4,malignant melanoma,0,0
+7919963:S815.4,tumours,0,0
+7919963:S815.5,melanomas,0,0
+7919963:S815.6,melanomas,0,0
+7919963:S815.6,tumours,0,0
+7919963:S815.7,tumours,0,0
+7919963:S815.7,melanomas,0,0
+7923175:S816.1,renal cell carcinoma,0,0
+7923175:S816.2,renal cell carcinoma,0,0
+7923175:S816.2,RCC,0,0
+7923175:S816.3,RCC,0,0
+7923175:S816.6,RCC,0,0
+7923175:S816.9,RCC,0,0
+7926759:S818.2,leukemia,0,0
+7929104:S820.2,tumor,0,0
+7929104:S820.6,tumor,0,0
+7931077:S822.1,human immunodeficiency virus,0,0
+7931077:S822.2,human immunodeficiency virus,0,0
+7945272:S823.3,leukemia,0,0
+7949138:S824.2,leukemia,0,0
+7964616:S829.1,Epstein-Barr virus,0,0
+7964616:S829.2,Epstein-Barr virus,0,0
+7966569:S830.1,immunodeficiency,0,0
+7966569:S830.2,immunodeficiency,0,0
+7966569:S830.7,tumor,0,0
+7981603:S833.5,lymphoid neoplasms,0,0
+7983701:S834.1,human immunodeficiency virus,0,0
+7983701:S834.1,human immunodeficiency virus,0,0
+7983701:S834.2,immunodeficiency,0,0
+7983701:S834.6,tumor,1,1
+7986199:S835.1,leukemia,0,0
+7986199:S835.3,leukemia,0,0
+7998962:S837.2,human immunodeficiency virus,0,0
+7998962:S837.12,tumour,0,0
+8018558:S839.2,leukemia,0,0
+8052854:S843.5,human immunodeficiency virus,0,0
+8052854:S843.5,HIV,0,0
+8054477:S844.7,leukemia,0,0
+8062448:S845.6,tumor,0,0
+8077662:S848.7,psoriasis,0,0
+8077662:S848.7,arthritis,0,0
+8108127:S851.2,leukemia,0,0
+8108127:S851.8,leukemic,0,0
+8137243:S856.7,tumor,0,0
+8139041:S857.1,human immunodeficiency virus,0,0
+8139041:S857.2,human immunodeficiency virus,0,0
+8151786:S859.1,Human immunodeficiency virus,0,0
+8151786:S859.2,Human immunodeficiency virus,0,0
+8151786:S859.4,tumor,0,0
+8158122:S860.1,neuroblastoma,0,0
+8158122:S860.3,tumor,0,0
+8158122:S860.4,neuroblastoma,0,0
+8158122:S860.7,neuroblastoma,0,0
+8158122:S860.8,pheochromocytoma,0,0
+8158122:S860.9,neuroblastoma,0,0
+8158122:S860.11,neuroblastoma,0,0
+8158122:S860.12,neuroblastoma,1,1
+8158122:S860.13,neuroblastoma,1,1
+8184011:S868.3,leukemia,0,0
+8186192:S869.1,tumor,0,0
+8186192:S869.2,tumor,0,0
+8207793:S873.1,Human immunodeficiency virus,0,0
+8207793:S873.3,human immunodeficiency virus,0,0
+8524816:S876.6,tumor,0,0
+8562886:S884.4,cancer,0,0
+8600942:S888.3,tumor,0,0
+8605359:S891.1,leukemia,0,0
+8605359:S891.2,leukemia,0,0
+8605359:S891.10,fever,0,0
+8605359:S891.10,leukemia,0,0
+8605359:S891.10,lymphoma,0,0
+8605587:S892.1,tumor,0,0
+8605587:S892.2,tumor,0,0
+8605587:S892.2,human immunodeficiency virus,0,0
+8608243:S893.1,leukemia,0,0
+8608243:S893.2,leukemia,0,0
+8608243:S893.6,leukemia,1,0
+8608243:S893.11,leukemic,0,0
+8617979:S896.1,HIV,0,0
+8617979:S896.2,bacterial infections,0,0
+8617979:S896.4,HIV,0,0
+8617979:S896.4,HIV,0,0
+8617979:S896.5,HIV,0,0
+8617979:S896.6,HIV,0,0
+8617979:S896.6,HIV,0,0
+8617979:S896.8,HIV,0,0
+8617979:S896.9,HIV,0,0
+8617979:S896.10,HIV,0,0
+8622636:S901.1,tumor,0,0
+8622636:S901.3,tumor,0,0
+8623933:S904.3,tumor,0,0
+8623933:S904.12,leukemia,0,0
+8626752:S906.5,hypotonic,0,0
+8626752:S906.6,hypotonic,0,0
+8627768:S907.1,human immunodeficiency virus,0,0
+8627768:S907.2,human immunodeficiency virus,0,0
+8627768:S907.4,tumor,0,0
+8627768:S907.4,tumor,0,0
+8627768:S907.10,HIV,0,0
+8627768:S907.10,HIV,0,0
+8628274:S909.1,leukemia,0,0
+8628274:S909.4,leukemia,0,0
+8631821:S912.10,leukemia,0,0
+8635523:S916.1,leukemia,0,0
+8635523:S916.2,leukemia,0,0
+8635523:S916.3,leukemia,0,0
+8635523:S916.3,leukemic,1,1
+8645086:S921.2,human immunodeficiency virus,0,0
+8649822:S924.6,lymphoid malignancies,0,0
+8652841:S925.2,lymphoma,0,0
+8662666:S928.3,leukemia,0,0
+8663060:S932.3,immunodeficiency,0,0
+8666795:S936.7,lymphoma,0,0
+8739563:S944.2,tumor,0,0
+8739563:S944.5,atherosclerosis,0,0
+8790371:S947.1,HIV,0,0
+8790371:S947.2,human immunodeficiency virus,0,0
+8790371:S947.2,HIV,0,0
+8790371:S947.3,HIV,0,0
+8790371:S947.3,tumor,0,0
+8790371:S947.4,HIV,0,0
+8790371:S947.4,HIV,0,0
+8790371:S947.5,HIV,0,0
+8790371:S947.6,HIV,0,0
+8790371:S947.6,HIV,0,0
+8796372:S948.2,tumor,0,0
+8797708:S949.2,leukemia,0,0
+8797708:S949.2,leukemia,0,0
+8853898:S952.2,leukemic,0,0
+8925904:S954.1,carcinoma,1,1
+8925904:S954.6,prostate cancer,0,0
+8960365:S955.3,leukemia,0,0
+8977228:S956.1,HIV,0,0
+8977228:S956.2,HIV,0,0
+8977228:S956.3,HIV,0,0
+8977228:S956.5,HIV,0,0
+8977228:S956.6,HIV,0,0
+8977228:S956.6,HIV,0,0
+8977228:S956.8,HIV,1,1
+8977228:S956.12,HIV,0,0
+8978306:S957.2,tumor,0,0
+9007200:S958.1,human immunodeficiency virus,0,0
+9007200:S958.2,human immunodeficiency virus,0,0
+9009221:S959.2,tumor,0,0
+9011569:S960.2,non-insulin-dependent diabetes mellitus,0,0
+9032265:S968.1,leukemia,0,0
+9032265:S968.2,leukemia,0,0
+9032344:S971.1,human immunodeficiency virus,0,0
+9032344:S971.2,Human immunodeficiency virus,0,0
+9032344:S971.7,HIV,0,0
+9032344:S971.8,HIV,0,0
+9032403:S972.1,leukemia,0,0
+9032403:S972.2,leukemia,0,0
+9032466:S973.2,human immunodeficiency virus,0,0
+9032466:S973.8,tumour,0,0
+9052839:S979.1,tumor,0,0
+9052839:S979.2,tumor,0,0
+9057086:S981.2,leukemia,0,0
+9060666:S983.1,Epstein-Barr virus,0,0
+9060666:S983.2,Epstein-Barr virus,0,0
+9065737:S984.2,bacterial infections,0,0
+9074948:S987.4,tumor,0,0
+9075924:S988.2,human immunodeficiency virus,0,0
+9081693:S990.3,thrombosis,0,0
+9094628:S991.1,human immunodeficiency virus,0,0
+9094628:S991.3,immunodeficiency,0,0
+9094628:S991.3,HIV,0,0
+9095577:S992.2,ulcerative colitis,0,0
+9096701:S993.2,lymphoma,0,0
+9096701:S993.6,tumor,0,0
+9096701:S993.7,neoplastic,0,0
+9111040:S997.2,leukemia,0,0
+9111040:S997.2,lymphoma,0,0
+9115810:S1001.1,HIV,0,0
+9115810:S1001.2,HIV,0,0
+9115810:S1001.2,tumor,0,0
+9115810:S1001.7,HIV,1,0
+9116279:S1002.2,leukemia,0,0
+9116279:S1002.4,leukemic,0,0
+9119999:S1004.1,HIV,0,0
+9119999:S1004.2,HIV,0,0
+9119999:S1004.7,HIV,1,1
+9119999:S1004.8,HIV,0,0
+9122255:S1007.7,T-cell lymphoma,0,0
+9122255:S1007.7,tumor,0,0
+9122255:S1007.8,tumor,1,1
+9129050:S1008.6,tumor,0,0
+9135552:S1013.1,tumour,0,0
+9135552:S1013.2,renal cell carcinomas,0,0
+9149909:S1020.1,tumor,0,0
+9149909:S1020.2,tumor,0,0
+9149909:S1020.2,lymphoma,0,0
+9149909:S1020.2,lymphoma,0,0
+9149909:S1020.2,leukemia,1,1
+9154298:S1021.1,Cytomegalovirus,0,0
+9154298:S1021.2,cytomegalovirus,0,0
+9154298:S1021.11,Cytomegalovirus,0,0
+9154298:S1021.13,Cytomegalovirus,0,0
+9160887:S1024.2,leukemia,0,0
+9164948:S1027.3,cancer,0,0
+9164948:S1027.3,tumor,0,0
+9166418:S1028.2,immunodeficiency,0,0
+9178107:S1034.3,periodontitis,0,0
+9178107:S1034.4,periodontitis,0,0
+9178107:S1034.6,periodontitis,0,0
+9188651:S1039.1,cytomegalovirus,0,0
+9188651:S1039.2,Cytomegalovirus,0,0
+9192770:S1044.11,tumor,0,0
+9199464:S1048.3,tumor,1,1
+9199898:S1049.4,tumor,0,0
+9211933:S1055.1,tumor,0,0
+9211933:S1055.3,tumor,0,0
+9219058:S1058.1,leukemia,0,0
+9219058:S1058.2,leukemia,0,0
+9223506:S1059.1,human immunodeficiency virus,0,0
+9223506:S1059.2,human immunodeficiency virus,0,0
+9223506:S1059.2,HIV,0,0
+9223506:S1059.9,HIV,1,0
+9224625:S1061.1,tumour,0,0
+9224625:S1061.3,tumour,0,0
+9231664:S1062.3,diabetes,0,0
+9231664:S1062.3,diabetes,0,0
+9231664:S1062.4,diabetes,0,0
+9231664:S1062.7,diabetes,0,0
+9233623:S1063.1,polyposis,0,0
+9233623:S1063.6,adenomatous polyposis coli,0,0
+9233623:S1063.6,APC,0,0
+9233623:S1063.7,APC,1,1
+9233623:S1063.9,colorectal,0,0
+9233623:S1063.9,cancers,0,0
+9234742:S1068.1,leukemia,0,0
+9234742:S1068.2,leukemias,0,0
+9237716:S1069.1,human immunodeficiency virus,0,0
+9237716:S1069.2,human immunodeficiency virus,0,0
+9237716:S1069.2,HIV,0,0
+9237716:S1069.2,HIV,0,0
+9237716:S1069.3,HIV,0,0
+9237716:S1069.4,HIV,0,0
+9237716:S1069.5,HIV,0,0
+9237716:S1069.5,HIV,0,0
+9237716:S1069.6,HIV,0,0
+9237716:S1069.7,HIV,0,0
+9242431:S1071.1,leukemia,0,0
+9242431:S1071.2,leukemia,0,0
+9247567:S1074.4,leukemia,0,0
+9256234:S1076.1,HIV,0,0
+9256234:S1076.2,immunodeficiency,0,0
+9261367:S1079.1,human immunodeficiency virus,0,0
+9261367:S1079.2,Human immunodeficiency virus,0,0
+9261367:S1079.3,tumor,0,0
+9271588:S1082.1,Epstein-Barr virus,0,0
+9271588:S1082.2,Epstein-Barr virus,0,0
+9277450:S1084.7,tumor,0,0
+9291089:S1089.3,leukemias,0,0
+9307271:S1094.1,leukemia,0,0
+9307271:S1094.2,leukemia,0,0
+9307271:S1094.3,leukemic,0,0
+9307271:S1094.5,leukemias,0,0
+9307271:S1094.5,leukemia,0,0
+9311830:S1097.2,tumor,0,0
+9311830:S1097.3,Epstein-Barr virus,0,0
+9312094:S1099.3,lymphoma,0,0
+9341193:S1108.1,leukemia,0,0
+9341193:S1108.2,leukemia,0,0
+9341193:S1108.2,leukemia,0,0
+9343210:S1111.1,leukemia,0,0
+9343210:S1111.3,leukemia,0,0
+9344365:S1113.3,tumor,0,0
+9351352:S1116.2,atherosclerosis,0,0
+9351352:S1116.7,tumor,0,0
+9351352:S1116.8,atherogenesis,0,0
+9353251:S1118.4,tumor,0,0
+9356353:S1119.4,Ctx,0,0
+9356353:S1119.5,Ctx,0,0
+9356353:S1119.6,Ctx,0,0
+9356353:S1119.7,Ctx,0,0
+9356353:S1119.7,Ctx,0,0
+9356353:S1119.9,Ctx,0,0
+9356494:S1120.1,Epstein-Barr virus,0,0
+9356494:S1120.1,tumor,0,0
+9356494:S1120.2,Epstein-Barr virus,0,0
+9356494:S1120.4,tumor,0,0
+9356494:S1120.7,tumor,0,0
+9361029:S1123.2,Wilms' tumor,0,0
+9414129:S1138.2,carcinoma,0,0
+9414129:S1138.3,tumor,0,0
+9416887:S1139.2,thrombosis,0,0
+9440542:S1146.3,lymphoma,0,0
+9442380:S1151.2,tumor,0,0
+9464836:S1155.4,leukemia,0,0
+9570512:S1161.1,Human immunodeficiency virus,0,0
+9619918:S1163.1,leukemia,0,0
+9619918:S1163.3,leukemia,0,0
+9619918:S1163.4,leukemia,0,0
+9619918:S1163.6,leukemia,0,0
+9619918:S1163.7,leukemia,0,0
+9625770:S1164.1,tumor,0,0
+9625770:S1164.4,Tumor,0,0
+9634075:S1167.1,human immunodeficiency virus,0,0
+9634075:S1167.2,human immunodeficiency virus,0,0
+9663467:S1170.1,leukemia,0,0
+9663467:S1170.3,leukemia,0,0
+9680181:S1171.5,atherosclerosis,0,0
+9707608:S1175.1,Epstein-Barr,0,0
+9707608:S1175.2,Epstein-Barr virus,0,0
+9722600:S1186.1,leukemia,0,0
+9722600:S1186.2,leukemia,0,0
+9722600:S1186.2,leukemia,0,0
+9722600:S1186.4,tumor,0,0
+9724034:S1187.1,leukemic,0,0
+9724034:S1187.2,leukemic,0,0
+9724088:S1188.1,breast cancer,0,0
+9724088:S1188.2,breast cancer,0,0
+9724088:S1188.5,breast cancer,0,0
+9724088:S1188.9,cancer,0,0
+9724088:S1188.12,breast cancer,1,1
+9730957:S1191.5,tumor,1,0
+9730957:S1191.6,tumor,1,0
+9731208:S1192.2,immunodeficiency,0,0
+9733846:S1195.1,immunodeficiency,0,0
+9733846:S1195.2,human immunodeficiency virus,0,0
+9733846:S1195.2,HIV,0,0
+9733846:S1195.2,Med,0,0
+9733846:S1195.8,HIV,1,1
+9743506:S1197.2,atherosclerosis,0,0
+9743506:S1197.10,atherogenesis,0,0
+9747720:S1199.1,Epstein-Barr virus,0,0
+9747720:S1199.2,Epstein-Barr virus,0,0
+9751756:S1201.1,leukemia,0,0
+9751756:S1201.2,leukemia,0,0
+9756417:S1202.2,renal cell carcinoma,0,0
+9756417:S1202.2,melanoma,0,0
+9756417:S1202.3,cancer,0,0
+9763613:S1203.1,tumor,0,0
+9763613:S1203.2,tumor,0,0
+9763613:S1203.2,liver disease,0,0
+9764907:S1204.1,HIV,0,0
+9764907:S1204.3,tumor,0,0
+9794389:S1212.4,leukemia,0,0
+9796963:S1214.1,carcinoma,0,0
+9796963:S1214.4,malignant melanoma,0,0
+9796963:S1214.4,renal cell carcinoma,0,0
+9796963:S1214.4,RCC,0,0
+9796963:S1214.4,ovarian cancer,0,0
+9796963:S1214.4,colorectal cancer,0,0
+9796963:S1214.6,RCC,0,0
+9796963:S1214.18,RCC,0,0
+9799798:S1215.6,leukemia,0,0
+9804806:S1217.4,tumor,0,0
+9808586:S1221.4,von Willebrand,0,0
+9819382:S1225.1,leukemia,0,0
+9819382:S1225.2,leukemia,0,0
+9825820:S1228.6,tumor,0,0
+9825820:S1228.10,tumor,1,1
+9837745:S1234.1,Epstein-Barr virus,0,0
+9837745:S1234.2,Epstein-Barr,0,0
+9837745:S1234.6,lymphoma,0,0
+9843840:S1237.5,tumor,0,0
+9843840:S1237.9,tumor,0,0
+9852070:S1240.1,tumor,0,0
+9852070:S1240.2,tumor,0,0
+9852070:S1240.4,tumor,0,0
+9852211:S1241.1,Epstein-Barr virus,0,0
+9852211:S1241.7,Epstein-Barr virus,0,0
+9852310:S1242.1,Human immunodeficiency virus,0,0
+9852310:S1242.2,Human immunodeficiency virus,0,0
+9863501:S1247.3,human immunodeficiency virus,0,0
+9863501:S1247.4,tumor,0,0
+9874515:S1250.2,human immunodeficiency virus,0,0
+9874515:S1250.2,HIV,0,0
+9874515:S1250.3,carcinoma,0,0
+9874515:S1250.8,cancers,0,0
+9878608:S1251.2,neoplasms,0,0
+9878608:S1251.4,tumors,0,0
+9878621:S1252.1,Epstein-Barr virus,0,0
+9878621:S1252.2,Epstein-Barr virus,0,0
+9878621:S1252.4,lymphoma,0,0
+9882624:S1255.2,atherosclerosis,0,0
+9887050:S1258.2,tumor,0,0
+9888865:S1259.2,atherosclerosis,0,0
+9888865:S1259.15,atherosclerosis,0,0
+9919536:S1266.4,cancer,0,0
+9928723:S1267.2,leukemia,0,0
+9928723:S1267.2,lymphoma,0,0
+9933632:S1268.5,tumor,0,0
+9952372:S1269.1,human immunodeficiency virus,0,0
+9952372:S1269.2,human immunodeficiency virus,0,0
+9952372:S1269.2,HIV,0,0
+9952372:S1269.6,tumor,0,0
+9952372:S1269.6,tumor,0,0
+9971788:S1270.1,human immunodeficiency virus,0,0
+9971788:S1270.2,human immunodeficiency virus,0,0
+9971788:S1270.3,HIV,0,0
+9971788:S1270.9,tumor,0,0
+9971788:S1270.11,HIV,0,0
+9973520:S1271.3,synovitis,0,0
+9973520:S1271.5,arthritis,0,0
+9973520:S1271.7,synovitis,0,0
+9973520:S1271.8,synovitis,0,0
+9974401:S1272.2,atherogenesis,0,0
+9974401:S1272.3,tumor,0,0
+9974401:S1272.10,atherogenesis,0,0

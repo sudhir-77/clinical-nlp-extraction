@@ -1,0 +1,155 @@
+{
+  "project": "clinical-nlp-extraction",
+  "success_criteria": [
+    {
+      "name": "Entity-level exact-span F1 on the NCBI Disease official test split",
+      "value": 0.8764160659114315,
+      "op": ">=",
+      "threshold": 0.8,
+      "threshold_high": null,
+      "passed": true
+    },
+    {
+      "name": "Transformer vs. CRF baseline",
+      "value": 0.17790860322486435,
+      "op": ">=",
+      "threshold": 0.05,
+      "threshold_high": null,
+      "passed": true
+    },
+    {
+      "name": "Negation detection F1 on BioScope disease sentences",
+      "value": 0.8372093023255814,
+      "op": ">=",
+      "threshold": 0.8,
+      "threshold_high": null,
+      "passed": true
+    },
+    {
+      "name": "API schema validity",
+      "value": 1.0,
+      "op": ">=",
+      "threshold": 1.0,
+      "threshold_high": null,
+      "passed": true
+    },
+    {
+      "name": "Test coverage of src/",
+      "value": 0.8971477960242005,
+      "op": ">=",
+      "threshold": 0.75,
+      "threshold_high": null,
+      "passed": true
+    }
+  ],
+  "metrics": {
+    "ncbi_disease": {
+      "transformer": {
+        "precision": 0.8665987780040734,
+        "recall": 0.8864583333333333,
+        "f1": 0.8764160659114315
+      },
+      "crf": {
+        "precision": 0.8181818181818182,
+        "recall": 0.609375,
+        "f1": 0.6985074626865672
+      },
+      "f1_gap": 0.17790860322486435,
+      "dev_f1": 0.8866371120962634,
+      "training": {
+        "epoch_1_dev_f1": 0.83645443196005,
+        "epoch_1_loss": 0.10164362851981817,
+        "epoch_2_dev_f1": 0.8555956678700362,
+        "epoch_2_loss": 0.026829199169084408,
+        "epoch_3_dev_f1": 0.8866371120962634,
+        "epoch_3_loss": 0.01045222590996736,
+        "epoch_4_dev_f1": 0.8864933417882055,
+        "epoch_4_loss": 0.0029801311195231596,
+        "best_dev_f1": 0.8866371120962634
+      }
+    },
+    "bioscope": {
+      "held_out": {
+        "precision": 0.9230769230769231,
+        "recall": 0.7659574468085106,
+        "f1": 0.8372093023255814,
+        "support": 47,
+        "n_mentions": 1054
+      },
+      "dev": {
+        "precision": 0.8888888888888888,
+        "recall": 0.8888888888888888,
+        "f1": 0.8888888888888888,
+        "support": 18,
+        "n_mentions": 479
+      },
+      "documents": 1273,
+      "sentences": 11871
+    },
+    "api": {
+      "n_notes": 200,
+      "n_valid": 200,
+      "valid_fraction": 1.0,
+      "valid_percent": 100.0
+    },
+    "error_analysis": {
+      "n_errors": 159,
+      "n_analyzed": 50,
+      "boundary": 75,
+      "missed": 34,
+      "false_positive": 50
+    },
+    "lexicon_phrases": 1583,
+    "crf": {
+      "c1": 0.1,
+      "c2": 0.1,
+      "dev_f1": 0.701534170153417
+    },
+    "model_name": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract",
+    "quick": false,
+    "plots": [
+      "f1_comparison.png",
+      "error_categories.png"
+    ],
+    "coverage": {
+      "line_rate": 0.8971477960242005
+    }
+  },
+  "baseline": {
+    "model": "dictionary_crf",
+    "entity_f1": 0.6985074626865672,
+    "entity_precision": 0.8181818181818182,
+    "entity_recall": 0.609375,
+    "c1": 0.1,
+    "c2": 0.1
+  },
+  "splits": {
+    "ncbi_disease_abstracts": {
+      "train": 593,
+      "val": 100,
+      "test": 100
+    },
+    "ncbi_disease_sentences": {
+      "train": 6052,
+      "val": 1009,
+      "test": 1025
+    },
+    "bioscope_abstracts": {
+      "train": 0,
+      "val": 0,
+      "test": 1273
+    }
+  },
+  "seeds": [
+    0
+  ],
+  "hardware": {
+    "cpu": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+    "ram_gb": 15.73,
+    "gpu": null,
+    "python": "3.12.10",
+    "os": "Windows-11-10.0.26200-SP0",
+    "peak_rss_gb": 2.6059
+  },
+  "runtime_seconds": 3538.463
+}
